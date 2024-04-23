@@ -11,6 +11,9 @@
 
 <div dsplay="inline-block">
 
+ <a href="https://www.instagram.com/_rodriguess18_/">
+<img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+
 <!--
 **Rodrigues-19/Rodrigues-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
