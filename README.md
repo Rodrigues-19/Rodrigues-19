@@ -9,10 +9,12 @@
 </br>
 </br>
 
-<div dsplay="inline-block">
 
  <a href="https://www.instagram.com/_rodriguess18_/">
-<img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+<img align="left" width="80px" src="https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/8ef37735-e072-47df-9bcf-9524b017db56">
+
+
+
 
 <!--
 **Rodrigues-19/Rodrigues-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
