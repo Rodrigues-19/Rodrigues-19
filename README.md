@@ -1,35 +1,38 @@
 # Hello! Welcome Gabriel Rodrigues Github profile 🤠
 
-## 🖌️ **About Me**
-- 👨‍🎓 `training`: Admnistration at Mackenzie Presbyterian University UPM | Em andamento.
-- 💰 `Work`: 5 anos de experiência na atividade de assistente comercial Junior na Gerar Capital (FIDC).
-- 📚 `studying`: Cursando lógica de programação com a Alura em Java script.
-
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/397428c7-0b95-45ef-8c18-552833295bba">
+<img align="right" width="150px" style="margin-top:-20px" src="https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/397428c7-0b95-45ef-8c18-552833295bba">
 
 </br>
 </br>
-
 
  <a href="https://www.instagram.com/_rodriguess18_/">
-<img align="left" width="80px" src="https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/8ef37735-e072-47df-9bcf-9524b017db56">
+<img align="left" width=63px" src="https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/8ef37735-e072-47df-9bcf-9524b017db56">
 
-<a href="https://www.linkedin.com/in/gabriel-rodrigues-9558332b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+ <a href="https://www.linkedin.com/in/gabriel-rodrigues-9558332b9/">
+ <img width="82px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
-<img align="right" width="80px" src=" https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/5fe07758-f762-4cc8-b56c-065f49f06263">
+## 🖌️ **Hello Devs!**
+- 👨‍🎓 `training` Admnistration at Mackenzie Presbyterian University UPM | Em andamento.
+- 💰 `Work` 5 anos de experiência na atividade de assistente comercial Junior na Gerar Capital (FIDC).
+- 📚 `studying` Cursando lógica de programação com a Alura em Java script.
+- `About me` 19 anos, residente em Barueri - SP, à procura de trabalho, estudando o mercado financeiro com a Bloomberg Market Concepts e programação na Alura.
 
+### 🖥️ Tecnologias e Ferramentas: 
 
-<!--
-**Rodrigues-19/Rodrigues-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
-Here are some ideas to get you started:
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/_rodriguess18_/) ou pelo [LinkedIn](www.linkedin.com/in/gabriel-rodrigues-9558332b9/) (Estou disponível! 🙃). 
+Você pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 👊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<p align="center">
+<a href="https://github.com/Rodrigues-19">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rodrigues-19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodrigues-19&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</a>
+</p>
