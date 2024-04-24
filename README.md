@@ -36,3 +36,5 @@ Você pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqu
 </a>
 </a>
 </p>
+
+![Snake animation](https://github.com/Rodrigues-19/Rodrigues-19/blob/output/github-contribution-grid-snake.svg)
