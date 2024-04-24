@@ -16,6 +16,8 @@
 
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-9558332b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
 
+<img align="left" width="80px" src=" https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/5fe07758-f762-4cc8-b56c-065f49f06263">
+
 
 <!--
 **Rodrigues-19/Rodrigues-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
