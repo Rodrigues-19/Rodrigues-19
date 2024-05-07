@@ -16,7 +16,7 @@
 ## 🖌️ **Hello Devs!**
 - 👨‍🎓 `training` Admnistration at Mackenzie Presbyterian University UPM | Em andamento.
 - 💰 `Work` 5 anos de experiência na atividade de assistente comercial na Gerar Capital (FIDC).
-- 🛠️ Atuações: Analista de crédito Jr. Gestão de carteira, Cobrança e Confirmação.
+- 🛠️ `Atuações:` Analista de crédito Jr. Gestão de carteira, Cobrança e Confirmação.
 - 📚 `studying` Cursando lógica de programação com a Alura em Java script.
 - `About me` 19 anos, residente em Barueri - SP, à procura de trabalho, estudando o mercado financeiro com a Bloomberg Market Concepts e programação na Alura.
 
