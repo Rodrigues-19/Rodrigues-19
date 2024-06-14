@@ -25,6 +25,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" title = "CSS"/></code>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/_rodriguess18_/) ou pelo [LinkedIn](www.linkedin.com/in/gabriel-rodrigues-9558332b9/) (Estou disponível! 🙃). 
 Você pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 👊
