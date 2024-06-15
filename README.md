@@ -8,7 +8,7 @@
  <a href="https://www.instagram.com/_rodriguess18_/">
 <img align="left" width=63px" src="https://github.com/Rodrigues-19/Rodrigues-19/assets/167548049/8ef37735-e072-47df-9bcf-9524b017db56">
 
- <a href="https://www.linkedin.com/in/gabriel-rodrigues-9558332b9/">
+ <a href="www.linkedin.com/in/gabriel-rodrigues-gouveia-de-souza">
  <img width="82px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
