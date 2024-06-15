@@ -30,7 +30,7 @@
   <img align="center" alt="Rodrigues-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
 </div>
 <br>
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/_rodriguess18_/) ou pelo [LinkedIn](www.linkedin.com/in/gabriel-rodrigues-9558332b9/) (Estou disponível! 🙃). 
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/_rodriguess18_/) ou pelo [LinkedIn](www.linkedin.com/in/gabriel-rodrigues-gouveia-de-souza/) (Estou disponível! 🙃). 
 Você pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 👊
 
 ##
