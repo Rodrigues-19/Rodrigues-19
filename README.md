@@ -10,7 +10,7 @@
 
  <a href="https://www.linkedin.com/in/gabriel-rodrigues-gouveia-de-souza/">
  <img width="82px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
+
 </div>
 
 ## 🖌️ **Hello Devs!**
