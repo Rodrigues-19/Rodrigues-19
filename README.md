@@ -22,23 +22,13 @@
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-  <div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigues-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodrigues-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigues-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigues-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rodrigues-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
-           />
-          
-          
-          
-   
 </div>
-
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" title = "CSS"/></code>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/_rodriguess18_/) ou pelo [LinkedIn](www.linkedin.com/in/gabriel-rodrigues-9558332b9/) (Estou disponível! 🙃). 
 Você pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 👊
